@@ -66,9 +66,6 @@ class App extends Component {
                   <Route exact path="/submenu/test2">
                     <DrugaDEMO data={this.state.podaci.stranice[1]} />
                   </Route>
-                  <Route path="/i3_test">
-                    <Redirect to="/" />
-                  </Route>
                   <Route path="*">
                     <NoMatch />
                   </Route>
