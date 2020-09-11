@@ -1,0 +1,23 @@
+@media (min-width: 992px) {
+  .content {
+    margin-top: 70px;
+  }
+}
+
+.text-primary {
+  color: #003da7!important;
+  ;
+}
+
+.bg-primary {
+  background-color: #003da7!important;
+  ;
+}
+
+.stranica {
+  min-height: 100vh;
+}
+
+.content {
+  flex: 1 0 auto;
+}

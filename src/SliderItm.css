@@ -1,0 +1,10 @@
+.slider-img {
+  height: 200px;
+  width: 200px;
+  border: 2px solid #003da7;
+  box-shadow: 0 0.3rem 0.625rem rgba(0, 0, 0, 0.2);
+}
+
+.slider-text {
+  width: 75%;
+}

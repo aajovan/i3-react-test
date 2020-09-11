@@ -1,0 +1,17 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css');
+.slick-next:before, .slick-prev:before {
+  color: #003da7;
+}
+
+.slick-dots li.slick-active button:before {
+  color: #003da7;
+}
+
+.slick-dots li button:before {
+  color: #003da7;
+}
+
+.slick-slide :focus {
+  outline: none;
+}

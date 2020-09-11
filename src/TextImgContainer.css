@@ -1,0 +1,26 @@
+@media (min-width: 992px) {
+  .text-display-width {
+    width: 60%;
+  }
+  .img-display-width {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .text-display-width {
+    width: 90%;
+  }
+  .img-display-width {
+    width: 80%;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+  .text-display-width {
+    width: 60%;
+  }
+  .img-display-width {
+    width: 80%;
+  }
+}
